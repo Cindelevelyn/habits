@@ -30,7 +30,8 @@ E por último, basta rodar!
 
 Click no link e será redirecionado para o site!
 
-===============
+------------------
+--------------------
 
 ## Próximos Updates
 - Light/Dark mode
